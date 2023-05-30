@@ -1,7 +1,10 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 namespace: dev
-bases:
-- ../../base
 patchesStrategicMerge:
 - ingress.yaml
+resources:
+- ../../base
+images:
+- name: sce06147/gitops
+  newTag: ac6e1ce8e4886ccc9447379f6a58bd3dd2370794
