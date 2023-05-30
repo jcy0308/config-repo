@@ -13,7 +13,7 @@ spec:
         app.kubernetes.io/name: app
     spec:
       containers:
-      - image: amigoscode/2048
+      - image: sce06147/gitops
         imagePullPolicy: Always
         name: app
         ports:
