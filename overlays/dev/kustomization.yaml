@@ -7,4 +7,4 @@ resources:
 - ../../base
 images:
 - name: sce06147/gitops
-  newTag: 2600805047da191dd9b313996fc4e932f3aad49d
+  newTag: 5743d67ab528b0e720706f3b779c9bed6c1297b8
