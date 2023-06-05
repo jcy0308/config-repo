@@ -7,4 +7,4 @@ resources:
 - ../../base
 images:
 - name: sce06147/gitops
-  newTag: 5db1f698cb4a01589ca157e47de8a768006cadf1
+  newTag: jenkins
