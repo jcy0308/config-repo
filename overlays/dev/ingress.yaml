@@ -8,10 +8,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - dev.hyunsu.scg.skku.ac.kr
+    - jcydev.scg.skku.ac.kr
     secretName: gitops-tls
   rules:
-  - host: dev.hyunsu.scg.skku.ac.kr
+  - host: jcydev.scg.skku.ac.kr
     http:
       paths:
       - backend:
