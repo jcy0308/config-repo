@@ -9,4 +9,4 @@ resources:
 - ../../base
 images:
 - name: jcy0308/deokji
-  newTag: 1ffc2d30db7daff21076ac818a2097e4e6832da3
+  newTag: c2235fd5e5f0388aa7523cefc6b11f50bc7ac81e
