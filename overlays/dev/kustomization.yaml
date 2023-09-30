@@ -6,5 +6,5 @@ patchesStrategicMerge:
 resources:
 - ../../base
 images:
-- name: sce06147/gitops
+- name: jcy0308/deokji
   newTag: "74"
