@@ -3,10 +3,9 @@ kind: Kustomization
 namespace: jecydev-deokji
 patchesStrategicMerge:
 - ingress.yaml
-- deployment.yaml
-- service.yaml
 resources:
 - ../../base
+- namespace.yaml
 images:
 - name: jcy0308/deokji
   newTag: a51a5c468fed952a8b0f66582cb888c1120f5fb2
