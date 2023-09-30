@@ -6,5 +6,5 @@ patchesStrategicMerge:
 resources:
 - ../../base
 images:
-- name: jcy0308/deokji  
-  newTag: kk
+- name: jcy0308/deokji
+  newTag: 19376638080f1f02dae5da7b381688651f933f42
