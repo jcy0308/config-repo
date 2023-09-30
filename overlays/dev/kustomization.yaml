@@ -3,6 +3,8 @@ kind: Kustomization
 namespace: dev
 patchesStrategicMerge:
 - ingress.yaml
+- deployment.yaml
+- service.yaml
 resources:
 - ../../base
 images:
