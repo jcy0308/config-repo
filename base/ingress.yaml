@@ -8,7 +8,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - blabla.scg.skku.ac.kr
+    - jcydev.scg.skku.ac.kr
     secretName: gitops-tls
   rules:
   - host: jcydev.scg.skku.ac.kr
