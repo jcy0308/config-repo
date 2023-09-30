@@ -8,4 +8,4 @@ resources:
 - namespace.yaml
 images:
 - name: jcy0308/deokji
-  newTag: 3a05113405ec3b77c04d2e6644021bdd4774af1a
+  newTag: a02152bb3f1a5d04049753e06f6e55838fd5ec58
